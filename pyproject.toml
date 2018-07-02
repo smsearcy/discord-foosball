@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "discord-foosball"
+version = "0.1.0"
+description = ""
+authors = ["Scott Searcy <smsearcy@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "*"
+"discord.py" = "^0.16.12"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.0"

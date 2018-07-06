@@ -7,6 +7,8 @@ authors = ["Scott Searcy <smsearcy@gmail.com>"]
 [tool.poetry.dependencies]
 python = "*"
 "discord.py" = "^0.16.12"
+python-dotenv = "^0.8.2"
+environ_config = "^18.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.0"
